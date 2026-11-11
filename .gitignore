@@ -20,6 +20,29 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# Project-generated files
+# Ignore large trained model files
 models/*.joblib
+
+# Ignore generated results except shareable CSV summaries
+# Ignore generated results by default
 results/*
+
+# Include project result CSVs
+!results/adversarial_evaluation.csv
+!results/baseline_random_forest_metrics.csv
+!results/five_model_adversarial_comparison.csv
+!results/five_model_confusion_matrices.csv
+!results/five_model_summary_metrics.csv
+!results/grouped_adversarial_evaluation.csv
+!results/grouped_baseline_metrics.csv
+!results/model_comparison.csv
+!results/model_confusion_matrices.csv
+!results/perturbed_feature_bounds.csv
+!results/robustness_comparison.csv
+!results/robustness_validation.csv
+!results/validation_report.csv
+
+# Exclude duplicate backup
+results/robustness_validation_backup.csv
+# Original dataset - do not upload
+data/

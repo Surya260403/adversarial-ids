@@ -1,0 +1,43 @@
+feature,training_iqr,training_p01,training_p99
+Flow Duration,6.0731812e+07,3.0,1.1734904e+08
+Fwd Packet Length Max,315.0,0.0,2065.0
+Fwd Packet Length Min,6.0,0.0,68.0
+Fwd Packet Length Mean,46.0,0.0,425.57288
+Fwd Packet Length Std,116.63667,0.0,699.8012
+Bwd Packet Length Max,4338.0,0.0,11595.0
+Bwd Packet Length Min,6.0,0.0,226.0
+Bwd Packet Length Mean,1650.4286,0.0,2901.75
+Bwd Packet Length Std,1757.579,0.0,5795.5005
+Flow Bytes/s,93629.77,0.0,1.03e+07
+Flow Packets/s,16326.127,0.06243569,666666.7
+Flow IAT Mean,2.8688295e+06,2.5,2.2e+07
+Flow IAT Std,4.686406e+06,0.0,3.41e+07
+Flow IAT Max,1.0099812e+07,3.0,1.01e+08
+Flow IAT Min,51.0,0.0,998141.06
+Fwd IAT Total,6.04e+07,0.0,1.17e+08
+Fwd IAT Mean,4.504012e+06,0.0,4.5043068e+07
+Fwd IAT Std,4.7973095e+06,0.0,4.94e+07
+Fwd IAT Max,1.0099999e+07,0.0,1.01e+08
+Fwd IAT Min,49.0,0.0,4.31e+07
+Bwd IAT Total,290365.5,0.0,1.155872e+08
+Bwd IAT Mean,57694.15,0.0,5.13e+07
+Bwd IAT Std,68515.65,0.0,4.36e+07
+Bwd IAT Max,210732.0,0.0,1e+08
+Bwd IAT Min,47.0,0.0,3.15e+07
+Fwd Packets/s,8928.35,0.035713203,666666.7
+Bwd Packets/s,1164.754,0.0,83333.336
+Min Packet Length,6.0,0.0,65.0
+Max Packet Length,4338.0,0.0,11595.0
+Packet Length Mean,787.6667,0.0,1453.375
+Packet Length Std,1458.2498,0.0,3378.299
+Packet Length Variance,2.133228e+06,0.0,1.14e+07
+Down/Up Ratio,1.0,0.0,2.0
+Average Packet Size,842.5857,0.0,1661.0
+Avg Fwd Segment Size,46.0,0.0,425.57288
+Avg Bwd Segment Size,1650.4286,0.0,2901.75
+Active Mean,989.0,0.0,3.73294e+06
+Active Max,989.0,0.0,4.831626e+06
+Active Min,986.0,0.0,3.2639242e+06
+Idle Mean,1e+07,0.0,1e+08
+Idle Max,1.0017146e+07,0.0,1.01e+08
+Idle Min,9.868684e+06,0.0,1e+08

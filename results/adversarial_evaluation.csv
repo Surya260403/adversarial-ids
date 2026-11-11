@@ -1,0 +1,6 @@
+accuracy,attack_detection_rate,evasion_rate,true_benign,false_attack,false_benign,true_attack,perturbation_strength,experiment
+0.99854,0.99854,0.00146,0,0,73,49927,0.0,baseline
+0.99212,0.99212,0.00788,0,0,394,49606,0.01,adversarial
+0.98746,0.98746,0.01254,0,0,627,49373,0.03,adversarial
+0.98138,0.98138,0.01862,0,0,931,49069,0.05,adversarial
+0.97132,0.97132,0.02868,0,0,1434,48566,0.1,adversarial
